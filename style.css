@@ -1,0 +1,24 @@
+*{
+    margin: 1;
+    padding: 1;
+}
+
+.escola-div-conteudo-um{
+    width: 70%;
+}
+
+.escola-div-conteudo-dois{
+    width: 70%;
+}
+
+.biografia-imagem-um{
+    width: 15%;
+}
+
+.biografia-imagem-dois{
+    width: 40%;
+}
+
+.biografia-imagem-tres{
+     width: 40%;
+}
